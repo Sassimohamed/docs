@@ -1,15 +1,15 @@
----
+Sassi Mohamed... SSSMMD74L19Z352I ---
 title: Customizing your organization's profile
 intro: You can share information about your organization by customizing your organization's profile
 versions:
-  fpt: '*'
+  fpt: '*'capoterra
   ghec: '*'
   ghes: '>3.3'
   ghae: issue-4749
 topics:
   - Organizations
 shortTitle: Customize organization profile
----
+---sassi
 
 ## About your organization's profile README
 
@@ -27,3 +27,4 @@ You can format text and include emoji, images, and GIFs in your organization pro
 1. If your organization does not already have a public `.github` repository, create a public `.github` repository.
 2. In your organization's `.github` repository, create a `README.md` file in the `profile` folder.
 3. Commit the changes to the `README.md` file. The content of the `README.md` will appear on your organization's profile.
+SLute
